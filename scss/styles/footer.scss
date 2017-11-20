@@ -14,6 +14,9 @@
   align-items: center;
   text-align: center;
   .icons {
+    @media screen and (max-width: 600px) {
+      display: none;
+    }
     margin-bottom: 2em;
     display: inline-block;
 

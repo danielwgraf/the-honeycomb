@@ -12,6 +12,9 @@
   .footer .icons {
     margin-bottom: 2em;
     display: inline-block; }
+    @media screen and (max-width: 600px) {
+      .footer .icons {
+        display: none; } }
     .footer .icons li {
       display: inline-block;
       padding-right: 2.5em; }

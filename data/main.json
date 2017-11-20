@@ -1,0 +1,65 @@
+{
+  "seasons": {
+    "2017": {
+      "players": [
+        {
+          "firstName": "Daniel",
+          "lastName": "Graf",
+          "teams": [
+            "Bengals",
+            "Bills",
+            "Broncos",
+            "Colts",
+            "Cowboys",
+            "Eagles",
+            "Panthers",
+            "Patriots"
+          ]
+        },
+        {
+          "firstName": "Jon",
+          "lastName": "Becerril",
+          "teams": [
+            "49rs",
+            "Browns",
+            "Chiefs",
+            "Dolphins",
+            "Lions",
+            "Redskins",
+            "Seahawks",
+            "Texans"
+          ]
+        },
+        {
+          "firstName": "Leo",
+          "lastName": "Cervantes",
+          "teams": [
+            "Cardinals",
+            "Giants",
+            "Jets",
+            "Raiders",
+            "Rams",
+            "Ravens",
+            "Steelers",
+            "Vikings"
+          ]
+        },
+        {
+          "firstName": "Mohin",
+          "lastName": "Banker",
+          "teams": [
+            "Bears",
+            "Buccaneers",
+            "Chargers",
+            "Falcons",
+            "Jaguars",
+            "Packers",
+            "Saints",
+            "Titans"
+          ]
+        }
+
+      ]
+    }
+  }
+}
